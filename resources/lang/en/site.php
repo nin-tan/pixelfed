@@ -1,16 +1,14 @@
 <?php
 
 return [
-
-	'about'			=> 'Über',
-	'help'			=> 'Hilfe',
-	'language'		=> 'Sprache',
+	'about'			=> 'About',
+	'help'			=> 'Help',
+	'language'		=> 'Language',
 	'fediverse'		=> 'Fediverse',
 	'opensource'	=> 'Open Source',
-	'terms'			=> 'Nutzungshinweise',
+	'terms'			=> 'Terms',
 	'privacy'		=> 'Privacy',
-	'l10nWip'		=> 'Wir arbeiten noch an der Unterstützung weiterer Sprachen.',
-	'currentLocale' => 'Aktuelle Sprache',
-	'selectLocale'  => 'Wähle eine der unterstützten Sprachen aus',
-
+	'l10nWip'		=> 'We’re still working on localization support',
+	'currentLocale' => 'Current locale',
+	'selectLocale'  => 'Select from one of the supported languages',
 ];
